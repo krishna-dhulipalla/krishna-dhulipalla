@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [Proxy Tuner](https://figshare.com/articles/journal_contribution/Proxy_TuNER_Advancing_Cross-Domain_NamedEntity_Recognition_through_Proxy_Tuning/26822227/1)
 
-- 👨‍💻 All of my projects are available at [http://krishnadhulipalla.vt.domains/](http://krishnadhulipalla.vt.domains/)
+- 👨‍💻 All of my projects are available at [Personal Website](http://krishnadhulipalla.vt.domains/)
 
 - 💬 Ask me about **Crafting efficient ETL pipelines, leveraging Docker for seamless deployments, Implementing advanced NLP techniques with BERT and Transformers, optimizing models for domain-specific tasks, and developing AI-driven applications with PyTorch**
 
 - 📫 How to reach me **kdhulipalla13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sIpOslZc4_wXWHg_JeURWomEdmX8zm2Q/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sIpOslZc4_wXWHg_JeURWomEdmX8zm2Q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
