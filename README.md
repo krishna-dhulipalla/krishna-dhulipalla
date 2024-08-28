@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kdhulipalla13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sIpOslZc4_wXWHg_JeURWomEdmX8zm2Q/view?usp=sharing](https://drive.google.com/file/d/1sIpOslZc4_wXWHg_JeURWomEdmX8zm2Q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sIpOslZc4_wXWHg_JeURWomEdmX8zm2Q/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
