@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Proxy Tuner](https://figshare.com/articles/journal_contribution/Proxy_TuNER_Advancing_Cross-Domain_NamedEntity_Recognition_through_Proxy_Tuning/26822227/1)
 
-- 👨‍💻 All of my projects are available at [Personal Website](http://krishnadhulipalla.vt.domains/)
+- 👨‍💻 All of my projects are available at [Personal Website](https://krishna-creator.github.io/)
 
 - 💬 Ask me about **Crafting efficient ETL pipelines, leveraging Docker for seamless deployments, Implementing advanced NLP techniques with BERT and Transformers, optimizing models for domain-specific tasks, and developing AI-driven applications with PyTorch**
 
