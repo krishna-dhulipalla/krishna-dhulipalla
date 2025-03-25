@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-creator" alt="krishna-creator" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Airflow, Apache Spark, Advanced Data Engineering with Apache Spark (Coursera), LangChain, ntroduction to Large Language Models (Coursera by DeepLearning.AI)**
+- 🌱 I’m currently learning **Apache Airflow, Apache Spark, Advanced Data Engineering with Apache Spark (Coursera), LangChain, Introduction to Large Language Models (Coursera by DeepLearning.AI)**
 
 - 🤝 I’m looking for help with [Proxy Tuner](https://figshare.com/articles/journal_contribution/Proxy_TuNER_Advancing_Cross-Domain_NamedEntity_Recognition_through_Proxy_Tuning/26822227/1)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kdhulipalla13@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ESQlbE9cl6MuGPgfpEaM0UJlVMI79AZz/view](https://drive.google.com/file/d/1sKSHgBttqI5hbsBaKfC1nR0bvn37f7yl/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://go.jooba.com/Yg8jF8h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
