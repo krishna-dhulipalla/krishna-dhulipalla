@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://krishna-dhulipalla.github.io/)
 
+- Chat with my personal [ChatBot](https://huggingface.co/spaces/krishnadhulipalla/Personal_ChatBot)
+  
 - 💬 Ask me about **Crafting efficient ETL pipelines, leveraging Docker for seamless deployments, Implementing advanced NLP techniques with BERT and Transformers, optimizing models for domain-specific tasks, and developing AI-driven applications with PyTorch**
 
 - 📫 How to reach me **kdhulipalla13@gmail.com**
