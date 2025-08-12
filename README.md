@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on
 **Agentic LLM Systems for Genomics and Scientific Reasoning**  
 Building multi-agent pipelines for sequence labeling, retrieval-augmented interpretation, and trait classification using models like DNABERT, HyenaDNA, and AutoGen.  
-[Personal Chatbot Space](https://huggingface.co/spaces/krishnadhulipalla/Personal_ChatBot)
+[Personal Chatbot Space](https://huggingface.co/spaces/krishnadhulipalla/ChatBot)
 
 - 👯 I’m looking to collaborate on
 **Deploying Agents for Scientific Search, Retrieval & Labeling Tasks**  
@@ -19,7 +19,7 @@ Advanced Agent Coordination, Guardrails for LLM Systems, Advanced Retrieval Pipe
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://krishna-dhulipalla.github.io/)
 
-- Chat with my personal [ChatBot](https://huggingface.co/spaces/krishnadhulipalla/Personal_ChatBot)
+- Chat with my personal [ChatBot](https://huggingface.co/spaces/krishnadhulipalla/ChatBot)
   
 - 💬 Ask me about
 Agentic LLM systems, Retrieval-Augmented Generation, Hugging Face Transformers, Dockerized ML deployments, LangChain pipelines, Real-time Kafka-Spark streaming, ETL on Airflow + dbt
