@@ -40,26 +40,26 @@
 
 - 🏦 **Internal LLM-Powered Financial Agent (Enterprise Environment)**  
   Built an internal LLM-powered agent system for finance workflows involving:  
-  - Multi-agent validation chain (document → policy → financial rule checks)  
+ <!-- - Multi-agent validation chain (document → policy → financial rule checks)  
   - RAG over internal compliance docs & transaction schemas  
   - FastAPI backend with secure, role-based access  
   - Delivered improved accuracy in reconciliation + reduced manual verification time  
-  - Focus: reliability, auditability, deterministic tool-calling
+  - Focus: reliability, auditability, deterministic tool-calling-->
 
 - 🗺️ **PulseMap Agent**  
   Real-time map that combines **community intelligence + official feeds** for events and hazards.  
-  - Multi-agent orchestration with **LangGraph / LangChain**  
+ <!-- - Multi-agent orchestration with **LangGraph / LangChain**  
   - **FastAPI** backend, **React + Google Maps** frontend  
-  - Focus: tool-calling reliability, rate-limited APIs, and robust state management
+  - Focus: tool-calling reliability, rate-limited APIs, and robust state management-->
 
 - 🤖 **Personal AI Assistant (RAG + Memory)**  
   A production-style chatbot with **hybrid retrieval (BM25 + FAISS)**, **long-term memory**, and **streaming responses**.  
-  - Stack: **LangChain**, custom retrievers, FastAPI, SQLite/Postgres  
-  - Deployed on **Hugging Face Space** → [Try it here](https://huggingface.co/spaces/krishnadhulipalla/ChatBot)
+  <!-- - Stack: **LangChain**, custom retrievers, FastAPI, SQLite/Postgres  
+  - Deployed on **Hugging Face Space** → [Try it here](https://huggingface.co/spaces/krishnadhulipalla/ChatBot) -->
 
 - 🧬 **LLMs for Genomics & DAP-seq**  
-  - Built **DNABERT-based** models for rhythmicity classification on mRNAs, with **cross-domain evaluation** on lncRNA.  
-  - Exploring **HyenaDNA** and long-context architectures for **DAP-seq data** and plant regulatory genomics.
+ <!-- - Built **DNABERT-based** models for rhythmicity classification on mRNAs, with **cross-domain evaluation** on lncRNA.  
+  - Exploring **HyenaDNA** and long-context architectures for **DAP-seq data** and plant regulatory genomics. -->
 
 ---
 
@@ -105,14 +105,14 @@
 
 ---
 
-### 💬 Ask me about
+<!--### 💬 Ask me about
 
 - Agentic LLM systems (LangChain / LangGraph)  
 - RAG architectures & retrieval quality  
 - FastAPI backends & API design for ML apps  
 - Dockerized ML deployments & basic K8s patterns  
 - Kafka / Spark streaming (concepts + practical usage)  
-- ETL with Python, Airflow-style orchestration, and dbt-like transformations
+- ETL with Python, Airflow-style orchestration, and dbt-like transformations -->
 
 ---
 
