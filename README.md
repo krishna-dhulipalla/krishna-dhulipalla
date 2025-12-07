@@ -71,18 +71,6 @@
 
 ---
 
-### 👯 Open to collaborate on
-
-- **Deploying agents in the real world**  
-  - Scientific / technical search, labeling workflows, and research tooling  
-  - Productionizing RAG and agentic systems (observability, evaluation, CI/CD)  
-
-- **Infra for AI teams**  
-  - Small tools that make **LLM workflows more reliable, testable, and debuggable**  
-  - Job trend analytics, ATS tooling, or research dashboards
-
----
-
 ### 🌱 Currently learning
 
 - ⚙️ **GPU optimizations for LLM workloads**  
