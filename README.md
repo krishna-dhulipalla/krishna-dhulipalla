@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishna-dhulipalla&theme=flat&margin-w=8" alt="krishna-dhulipalla" />
+    <img src="https://github-profile-trophy.vercel.app/?username=krishna-dhulipalla&theme=flat&margin-w=8" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -178,11 +178,15 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-dhulipalla&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img align="left"
+       src="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact"
+       alt="Top languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-dhulipalla&show_icons=true&locale=en" alt="GitHub stats" />
+  <img align="center"
+       src="https://github-readme-stats-alpha-two-72.vercel.app/api?username=krishna-dhulipalla&show_icons=true&locale=en"
+       alt="GitHub stats" />
 </p>
 
 <p>
