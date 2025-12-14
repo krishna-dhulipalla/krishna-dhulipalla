@@ -179,7 +179,7 @@
 
 <p>
   <img align="left"
-       src="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook"
+       src="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook,html"
        alt="Top languages" />
 </p>
 
