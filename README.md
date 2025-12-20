@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishna-dhulipalla&theme=flat&margin-w=8" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-hz00znedw.vercel.app/?username=krishna-dhulipalla&v=2" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
   - Goal: personal dashboard for **AI/ML hiring trends** and application tracking
 
 - 🧠 **Browser / Conversation Memory Layer**  
-  Designing a **browser memory layer** for agentic workflows:  
+  Designing a **browser memory layer** for agentic workflows
   - Persisting conversation + DOM context across browsing sessions  
   - Useful for **coding agents**, research agents, and “continue where you left off” flows
 
