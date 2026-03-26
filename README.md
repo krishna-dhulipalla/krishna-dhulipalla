@@ -1,7 +1,7 @@
 # Hi, I’m Krishna 👋  
 **Machine Learning Engineer · LLMs & Agentic AI · ML Infrastructure**
 
-![Profile views](https://komarev.com/ghpvc/?username=krishna-dhulipalla&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=krishna-dhulipalla&label=Profile%20views&color=0e75b6&style=flat) -->
 
 ---
 
@@ -43,7 +43,7 @@ I focus on **reliability, observability, and real-world usefulness**.
 - 🌐 Website: https://krishna-dhulipalla.github.io  
 - 🤖 Live bot: https://krishnadhulipalla-chatbot.hf.space  
 - 📄 Resume: https://go.jooba.com/Yg8jF8h  
-- 📫 Email: dhulipallakrishnavamsi@gmail.com  
+- 📫 Email: krishnadhulipalla13@gmail.com  
 
 ---
 
