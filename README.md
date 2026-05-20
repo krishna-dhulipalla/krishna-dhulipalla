@@ -1,5 +1,5 @@
 # Hi, I’m Krishna 👋  
-**Machine Learning Engineer · LLMs & Agentic AI · ML Infrastructure**
+**AI Engineer · Machine Learning Engineering · LLM Systems · ML Infrastructure**
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=krishna-dhulipalla&label=Profile%20views&color=0e75b6&style=flat) -->
 
@@ -13,29 +13,31 @@
 ---
 
 ## 👋 About
-I build **production-grade AI systems** — not demos.
+I build production ML and LLM systems that move models from experiments into reliable applications.
 
-My work sits at the intersection of:
-- **LLMs & agentic systems**
-- **RAG + retrieval quality**
-- **Backend & ML infrastructure**
+My work focuses on:
+- LLM applications, RAG pipelines, and agent workflows
+- ML engineering, model evaluation, and MLOps
+- Backend AI services and data pipelines
+- Kubernetes-based deployment, observability, and production reliability
 
-I focus on **reliability, observability, and real-world usefulness**.
+I care about building systems that are useful, measurable, and maintainable.
 
 ---
 
-## 🚧 What I’m working on
-- **RE-ATS** — job & hiring trend intelligence across ATS platforms  
-- **Agent memory layer** — persistent browser + conversation context  
-- **LLM infra experiments** — serving, caching, and GPU efficiency
+## 🚧 Current focus
+- **CoreLink AI**: agent runtime for grounded reasoning, tool use, and policy-aware execution
+- **Agent safety and policy controls**: guardrails for tool use, data leakage, prompt injection, and unsafe decisions
+- **LLM infrastructure**: serving, caching, evaluation, and reliability patterns
+- **Healthcare AI systems**: FHIR-based workflows, grounded clinical summarization, and safe AI architecture
 
 ---
 
 ## 🧩 Selected projects
-- **Enterprise LLM Agent (Finance)** — internal RAG + validation pipelines  
-- **PulseMap** — real-time map combining community + official signals  
-- **Personal AI Assistant** — hybrid retrieval, memory, streaming responses  
-- **Genomics LLMs** — DNABERT & long-context modeling experiments
+- **CoreLink AI**: modular agent runtime for evidence-grounded analytical tasks
+- **K8s Agent Sandbox**: Kubernetes operator for isolated agent execution environments
+- **Personal AI Assistant**: hybrid retrieval, memory, and streaming response system
+- **Genomics ML Research**: DNABERT, long-context sequence modeling, and PyTorch training pipelines
 
 ---
 
