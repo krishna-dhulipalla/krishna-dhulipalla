@@ -1,23 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="80" viewBox="0 0 960 80" role="img" aria-labelledby="title">
-<title id="title">Orange signal flowing between nodes</title>
-<style>
-  .packet { animation: travel 2.8s ease-in-out 3; }
-  .echo { animation: travel 2.8s .35s ease-in-out 3; }
-  @keyframes travel {
-    0% { transform: translateX(0); opacity: 0; }
-    14% { opacity: 1; }
-    86% { opacity: 1; }
-    100% { transform: translateX(712px); opacity: 0; }
-  }
-  @media (prefers-reduced-motion: reduce) { .packet, .echo { animation: none; } }
-</style>
-<rect x="1" y="1" width="958" height="78" rx="16" fill="#231d1a" stroke="#694235"/>
-<path d="M124 40H836" stroke="#794b3d" stroke-width="2"/>
-<g fill="#231d1a" stroke="#d97757" stroke-width="2">
-  <circle cx="124" cy="40" r="7"/><circle cx="302" cy="40" r="7"/>
-  <circle cx="480" cy="40" r="7"/><circle cx="658" cy="40" r="7"/>
-  <circle cx="836" cy="40" r="7"/>
-</g>
-<circle cx="124" cy="40" r="4" fill="#d97757" opacity=".48" class="echo"/>
-<circle cx="124" cy="40" r="4" fill="#ffab8e" class="packet"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+  <title id="title">From question to grounded answer</title>
+  <desc id="desc">LangGraph routes an enterprise question to documents, SQL, or MCP tools. Validation checks the output before the agent returns a grounded answer.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#201d1b"/>
+      <stop offset="1" stop-color="#35231e"/>
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#e89474" opacity=".18"/>
+    </pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="958" height="222" rx="18"/></clipPath>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L8 4 0 8Z" fill="#d97757"/></marker>
+  </defs>
+  <style>
+    .stage { stroke:#6d483b; animation: highlight .85s ease-in-out 1; }
+    .step1 { animation-delay:.15s; } .step2 { animation-delay:.95s; }
+    .step3 { animation-delay:1.75s; } .step4 { animation-delay:2.55s; }
+    @keyframes highlight {
+      0%,100% { stroke:#6d483b; fill:#28211e; }
+      50% { stroke:#f5a58a; fill:#503226; }
+    }
+    @media (prefers-reduced-motion: reduce) { .stage { animation:none; } }
+  </style>
+  <rect x="1" y="1" width="958" height="222" rx="18" fill="url(#surface)" stroke="#734b3d"/>
+  <rect x="660" y="1" width="300" height="222" fill="url(#grid)" clip-path="url(#clip)"/>
+  <rect x="33" y="31" width="5" height="45" rx="2.5" fill="#d97757"/>
+  <g font-family="system-ui, -apple-system, sans-serif">
+    <text x="52" y="53" fill="#fff3e9" font-size="31" font-weight="700">From question to grounded answer</text>
+    <text x="53" y="78" fill="#e3c6b6" font-size="17">How I build enterprise AI agents</text>
+    <g fill="#28211e" stroke-width="1.5">
+      <rect class="stage step1" x="33" y="105" width="204" height="83" rx="12"/>
+      <rect class="stage step2" x="263" y="105" width="204" height="83" rx="12"/>
+      <rect class="stage step3" x="493" y="105" width="204" height="83" rx="12"/>
+      <rect class="stage step4" x="723" y="105" width="204" height="83" rx="12"/>
+    </g>
+    <g stroke="#d97757" stroke-width="1.5" marker-end="url(#arrow)">
+      <path d="M243 146h14"/><path d="M473 146h14"/><path d="M703 146h14"/>
+    </g>
+    <g fill="#fff3e9" font-size="23" font-weight="650">
+      <text x="48" y="140">Route</text>
+      <text x="278" y="140">Retrieve or act</text>
+      <text x="508" y="140">Validate</text>
+      <text x="738" y="140">Answer</text>
+    </g>
+    <g fill="#e8bdac" font-size="16">
+      <text x="48" y="165">LangGraph</text>
+      <text x="278" y="165">Docs · SQL · MCP</text>
+      <text x="508" y="165">Schemas · SQL checks</text>
+      <text x="738" y="165">Grounded in evidence</text>
+    </g>
+  </g>
 </svg>
