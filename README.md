@@ -2,7 +2,7 @@
 
 **AI Engineer · Production agent systems, retrieval, and evaluation**
 
-![Animated orange signal flowing between nodes](assets/profile-signal.svg)
+![How I build enterprise AI agents: route with LangGraph, retrieve documents or call SQL and MCP tools, validate, then answer with evidence](assets/profile-signal.svg)
 
 [Portfolio](https://krishna-dhulipalla.github.io/) · [Résumé](https://krishna-dhulipalla.github.io/assets/KrishnaDhulipalla.pdf) · [LinkedIn](https://www.linkedin.com/in/krishnavamsidhulipalla) · [Email](mailto:krishnadhulipalla13@gmail.com)
 
@@ -34,18 +34,18 @@ I earned my **M.S. in Computer Science at Virginia Tech**, where I also worked o
 
 ## Open source contributions
 
-| Pull request | Status at update | Contribution |
-| --- | --- | --- |
-| [microsoft/PyRIT #3919](https://github.com/microsoft/PyRIT/pull/3919) | Merged | Deduplicate dataset filters in URL parsing and serialization. |
-| [browser-use/browser-use #3677](https://github.com/browser-use/browser-use/pull/3677) | Merged | Fix the async sandbox example so it runs as a standalone script. |
-| [niknarra/SE-Project---IntelliMeet #1](https://github.com/niknarra/SE-Project---IntelliMeet/pull/1) | Merged | Update the SMTP server setup. |
-| [microsoft/PyRIT #4329](https://github.com/microsoft/PyRIT/pull/4329) | Open | Propose removing the temporary upper bound on the regex dependency. |
-| [promptfoo/promptfoo #12433](https://github.com/promptfoo/promptfoo/pull/12433) | Open | Add an IteraCompute example using the generic OpenAI-compatible gateway. |
-| [confident-ai/deepeval #2691](https://github.com/confident-ai/deepeval/pull/2691) | Open | Clarify documentation for misuse, MCP use, and tool correctness. |
-| [langchain-ai/langgraph #6513](https://github.com/langchain-ai/langgraph/pull/6513) | Open | Correct an async task example and clarify blocking behavior. |
-| [NVIDIA-NeMo/Guardrails #1930](https://github.com/NVIDIA-NeMo/Guardrails/pull/1930) | Closed | Update README documentation links. |
-| [google/adk-python #3875](https://github.com/google/adk-python/pull/3875) | Closed | Correct `run_async` usage and the `ticketId` payload key in examples. |
-| [niknarra/SE-Project---IntelliMeet #10](https://github.com/niknarra/SE-Project---IntelliMeet/pull/10) | Closed | Contribute development UI changes. |
+| Pull request | Contribution |
+| --- | --- |
+| [microsoft/PyRIT #3919](https://github.com/microsoft/PyRIT/pull/3919) | Deduplicate dataset filters in URL parsing and serialization. |
+| [browser-use/browser-use #3677](https://github.com/browser-use/browser-use/pull/3677) | Fix the async sandbox example so it runs as a standalone script. |
+| [niknarra/SE-Project---IntelliMeet #1](https://github.com/niknarra/SE-Project---IntelliMeet/pull/1) | Update the SMTP server setup. |
+| [microsoft/PyRIT #4329](https://github.com/microsoft/PyRIT/pull/4329) | Propose removing the temporary upper bound on the regex dependency. |
+| [promptfoo/promptfoo #12433](https://github.com/promptfoo/promptfoo/pull/12433) | Add an IteraCompute example using the generic OpenAI-compatible gateway. |
+| [confident-ai/deepeval #2691](https://github.com/confident-ai/deepeval/pull/2691) | Clarify documentation for misuse, MCP use, and tool correctness. |
+| [langchain-ai/langgraph #6513](https://github.com/langchain-ai/langgraph/pull/6513) | Correct an async task example and clarify blocking behavior. |
+| [NVIDIA-NeMo/Guardrails #1930](https://github.com/NVIDIA-NeMo/Guardrails/pull/1930) | Update README documentation links. |
+| [google/adk-python #3875](https://github.com/google/adk-python/pull/3875) | Correct `run_async` usage and the `ticketId` payload key in examples. |
+| [niknarra/SE-Project---IntelliMeet #10](https://github.com/niknarra/SE-Project---IntelliMeet/pull/10) | Contribute development UI changes. |
 
 I also filed reports on an [OpenClaw update failure](https://github.com/openclaw/openclaw/issues/182967) and an [Open VSX namespace request](https://github.com/EclipseFdn/open-vsx.org/issues/9272). [All my public PRs](https://github.com/search?q=is%3Apr+author%3Akrishna-dhulipalla&type=pullrequests)
 
