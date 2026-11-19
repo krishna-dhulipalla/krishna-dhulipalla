@@ -2,8 +2,6 @@
 
 **AI Engineer · Production agent systems, retrieval, and evaluation**
 
-![How I build enterprise AI agents: route with LangGraph, retrieve documents or call SQL and MCP tools, validate, then answer with evidence](assets/profile-signal.svg)
-
 [Portfolio](https://krishna-dhulipalla.github.io/) · [Résumé](https://krishna-dhulipalla.github.io/assets/KrishnaDhulipalla.pdf) · [LinkedIn](https://www.linkedin.com/in/krishnavamsidhulipalla) · [Email](mailto:krishnadhulipalla13@gmail.com)
 
 ## About me
