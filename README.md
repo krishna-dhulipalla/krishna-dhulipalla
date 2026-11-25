@@ -194,9 +194,9 @@ I also filed reports on an [OpenClaw update failure](https://github.com/openclaw
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook,html&theme=github_dark&hide_border=true&bg_color=00000000&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook,html&hide_border=true&v=2" />
-    <img src="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook,html&hide_border=true&v=2" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook%2Chtml&theme=github_dark&hide_border=true&bg_color=00000000&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook%2Chtml&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-alpha-two-72.vercel.app/api/top-langs?username=krishna-dhulipalla&layout=compact&hide=jupyter%20notebook%2Chtml&hide_border=true&v=2" alt="Most used languages" />
   </picture>
 </p>
 
